@@ -37,6 +37,7 @@ public class HomeWork1 {
         checkYear(2019); // Проверка 2019 года на високосность
         System.out.println("Является ли 2020 год високосным:");
         checkYear(2020); // Проверка 2020 года на високосность
+        System.out.println("change branch to lesson 1 git");
     }
     // 3. Создание метода, вычисляющего выражение a * (b + (c / d)) и возвращающего результат
     public static int calculate(int a, int b, int c, int d) {
